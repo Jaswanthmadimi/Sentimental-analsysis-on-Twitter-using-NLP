@@ -47,3 +47,4 @@ logs/
 backend/data/
 backend/saved_models/
 backend/.env
+frontend/.env
